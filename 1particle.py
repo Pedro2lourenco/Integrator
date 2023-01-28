@@ -1,3 +1,4 @@
+#autor: pedro
 import numpy as np
 from numpy import sin,cos,log,sqrt,square
 import matplotlib.pyplot as plt
